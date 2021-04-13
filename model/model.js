@@ -49,6 +49,13 @@
     </div>
     </div>`;
     var contactContent =`<div class="contact">
+    <div class ="headline"><h1>Talk to us..</h1></div>
+    <div class="image10"></div>
+    <div class="text13">Call us at 1-800-555-6789</div>
+    <div class="image11"></div>
+    <div class="text15"></div>
+    <div class="image12"></div>
+    <div class="text15"></div>
     <h1>CONTACT</h1>
     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse tincidunt mi non sem dapibus, convallis lobortis erat consectetur. Praesent finibus nisi eu bibendum tristique. Nullam magna nulla, feugiat vitae iaculis id, bibendum nec ligula. Nullam id enim mattis, convallis orci quis, hendrerit velit. Suspendisse tortor tortor, cursus sed libero sed.</p>
     </div>`;
