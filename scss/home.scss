@@ -5,7 +5,11 @@
     height: 100vh;
     margin: 0 auto;
     flex-direction: column;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: Arial, Helvetica, sans-serif;background-image: url(../images/wood.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    color:white;
 
     .hero1 {
     width: 1000px;
@@ -21,7 +25,6 @@
     color: white;
     font-size: 20px;
     text-align: center;
-    color: black;
     }
     .container1 {
         width:1000px;
@@ -47,7 +50,6 @@
         padding-left: 20px;
         padding-right: 20px;
         text-align: center;
-        background-color: lightgrey;
     }
     .container2 {
         width:1000px;

@@ -30,19 +30,21 @@
         <div class="text6"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse tincidunt mi non sem dapibus, convallis lobortis erat consectetur. Praesent finibus nisi eu bibendum tristique. Nullam magna nulla, feugiat vitae iaculis id, bibendum nec ligula. Nullam id enim mattis, convallis orci quis, hendrerit velit. Suspendisse tortor tortor, cursus sed libero sed.</p></div>
         <div class="text7"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse tincidunt mi non sem dapibus, convallis lobortis erat consectetur. Praesent finibus nisi eu bibendum tristique. Nullam magna nulla, feugiat vitae iaculis id, bibendum nec ligula. Nullam id enim mattis, convallis orci quis, hendrerit velit. Suspendisse tortor tortor, cursus sed libero sed.</p></div>
     </div>`;
-    var productsContent =`<div class="locations">
-        <div class="tours"><h1>Tours</h1></div>
+    var productsContent =`<div class="products">
+        <div class="product-list"><h1>Our Products</h1></div>
         <div class="column1">
         <div class="image6"></div>
-        <div class="text8"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse tincidunt mi non sem dapibus, convallis lobortis erat consectetur. Praesent finibus nisi eu bibendum tristique. Nullam magna nulla, feugiat vitae iaculis id, bibendum nec ligula. Nullam id enim mattis, convallis orci quis, hendrerit velit. Suspendisse tortor tortor, cursus sed libero sed.</p></div>
+        <div class="text8"><h1>Electric guitars</h1><p>Electric guitars, consectetur adipiscing elit. Suspendisse tincidunt mi non sem dapibus, convallis lobortis erat consectetur. Praesent finibus nisi eu bibendum tristique. Nullam magna nulla, feugiat vitae iaculis id, bibendum nec ligula. Nullam id enim mattis, convallis orci quis, hendrerit velit. Suspendisse tortor tortor, cursus sed libero sed.</p></div>
         <div class="image7"></div>
-        <div class="text9"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse tincidunt mi non sem dapibus, convallis lobortis erat consectetur. Praesent finibus nisi eu bibendum tristique. Nullam magna nulla, feugiat vitae iaculis id, bibendum nec ligula. Nullam id enim mattis, convallis orci quis, hendrerit velit. Suspendisse tortor tortor, cursus sed libero sed.</p></div>
-    </div>
+        <div class="text9"><h1>Acoustic guitars</h1><p>Only the best responsibly sourced tone woods, consectetur adipiscing elit. Suspendisse tincidunt mi non sem dapibus.</p></div>
+        <div class="image20"></div>
+        <div class="text20"><h1>Guitar Amps</h1><p>Point to point hand wired tube amps for the most beautiful tones ever, consectetur adipiscing elit. Suspendisse tincidunt mi non sem dapibus.</p></div>
+        </div>
     <div class="column2">
         <div class="image8"></div>
-        <div class="text10"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse tincidunt mi non sem dapibus, convallis lobortis erat consectetur. Praesent finibus nisi eu bibendum tristique. Nullam magna nulla, feugiat vitae iaculis id, bibendum nec ligula. Nullam id enim mattis, convallis orci quis, hendrerit velit. Suspendisse tortor tortor, cursus sed libero sed.</p></div>
-        <div class="text11"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse tincidunt mi non sem dapibus, convallis lobortis erat consectetur. Praesent finibus nisi eu bibendum tristique. Nullam magna nulla, feugiat vitae iaculis id, bibendum nec ligula. Nullam id enim mattis, convallis orci quis, hendrerit velit. Suspendisse tortor tortor, cursus sed libero sed.</p></div>
+        <div class="text10"><h1>Electric Bass guitars</h1><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse tincidunt mi non sem dapibus, convallis lobortis erat consectetur. Praesent finibus nisi eu bibendum tristique. Nullam magna nulla, feugiat vitae iaculis id, bibendum nec ligula. Nullam id enim mattis, convallis orci quis, hendrerit velit. Suspendisse tortor tortor, cursus sed libero sed.</p></div>
         <div class="image9"></div>
+        <div class="text11"><h1>Acoustic Bass guitars</h1><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse tincidunt mi non sem dapibus, convallis lobortis erat consectetur. Praesent finibus nisi eu bibendum tristique. Nullam magna nulla, feugiat vitae iaculis id, bibendum nec ligula. Nullam id enim mattis, convallis orci quis, hendrerit velit. Suspendisse tortor tortor, cursus sed libero sed.</p></div>
         <div class="text12"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse tincidunt mi non sem dapibus, convallis lobortis erat consectetur. Praesent finibus nisi eu bibendum tristique. Nullam magna nulla, feugiat vitae iaculis id, bibendum nec ligula. Nullam id enim mattis, convallis orci quis, hendrerit velit. Suspendisse tortor tortor, cursus sed libero sed.</p></div>
     </div>
     </div>`;

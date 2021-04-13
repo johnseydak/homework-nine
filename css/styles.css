@@ -82,6 +82,11 @@ nav a {
   margin: 0 auto;
   flex-direction: column;
   font-family: Arial, Helvetica, sans-serif;
+  background-image: url(../images/wood.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  color: white;
 }
 .home .hero1 {
   width: 1000px;
@@ -97,7 +102,6 @@ nav a {
   color: white;
   font-size: 20px;
   text-align: center;
-  color: black;
 }
 .home .container1 {
   width: 1000px;
@@ -122,7 +126,6 @@ nav a {
   padding-left: 20px;
   padding-right: 20px;
   text-align: center;
-  background-color: lightgrey;
 }
 .home .container2 {
   width: 1000px;
@@ -157,6 +160,11 @@ nav a {
   flex-direction: column;
   font-size: 20px;
   font-family: Arial, Helvetica, sans-serif;
+  background-image: url(../images/wood.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  color: white;
 }
 
 .text3 {
@@ -232,8 +240,141 @@ nav a {
   margin: 0 auto;
 }
 
-.home {
-  background-color: aqua;
+.products {
+  background-color: lightgreen;
+  margin: 0 auto;
+  display: block;
+  width: 1000px;
+  height: 1550px;
+  font-family: Arial, Helvetica, sans-serif;
+  background-image: url(../images/wood.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  color: white;
+}
+
+.product-list {
+  text-align: center;
+  padding-top: 25px;
+  color: white;
+}
+
+.column1 {
+  width: 490px;
+  height: 1050px;
+  margin: 0 auto;
+  display: inline-block;
+}
+
+.column2 {
+  width: 490px;
+  height: 1050px;
+  margin: 0 auto;
+  display: inline-block;
+  margin-left: 15px;
+}
+
+.image6 {
+  width: 490px;
+  height: 300px;
+  background-image: url(../images/image6.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top: 20px;
+}
+
+.text8 {
+  width: 490px;
+  height: 160px;
+  text-align: center;
+  margin: 0 auto;
+  align-self: center;
+  padding: 20px;
+}
+
+.image7 {
+  width: 490px;
+  height: 300px;
+  margin-top: 50px;
+  background-image: url(../images/image7.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top: 20px;
+}
+
+.text9 {
+  width: 490px;
+  height: 160px;
+  text-align: center;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.text20 {
+  width: 490px;
+  height: 160px;
+  text-align: center;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.image20 {
+  width: 490px;
+  height: 300px;
+  background-image: url(../images/image20.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top: 20px;
+}
+
+.image8 {
+  width: 490px;
+  height: 300px;
+  background-image: url(../images/image8.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top: 20px;
+}
+
+.image9 {
+  width: 490px;
+  height: 300px;
+  background-image: url(../images/image9.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top: 20px;
+  margin-top: 50px;
+}
+
+.text10 {
+  width: 490px;
+  height: 160px;
+  text-align: center;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.text11 {
+  margin-top: 30px;
+  width: 490px;
+  height: 160px;
+  text-align: center;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.text12 {
+  width: 490px;
+  height: 160px;
+  text-align: center;
+  margin: 0 auto;
+  padding: 20px;
 }
 
 .contact {
